@@ -16,8 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaid1998&show_icons=true&theme=radical)
 
-# My GitHub Repository
 
-This repository is primarily written in MOST_USED_LANGUAGE.
-
-<!-- Add other content here -->

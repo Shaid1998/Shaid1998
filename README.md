@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **Vibestay**
 - 🌱 I’m learning **Advanced Laravel & System Design**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Laravel, React, and APIs**
+- 💬 Ask me about **Laravel, Vue, React, and APIs**
 - 📫 Reach me at **shaidurrahman225@gmail.com**
 
 ---

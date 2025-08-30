@@ -29,27 +29,27 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaid1998&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Shaid1998&theme=radical&hide_border=false" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaid1998&show_icons=true&theme=default" alt="GitHub stats" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Shaid1998&theme=default&hide_border=false" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaid1998&theme=react-dark" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaid1998&theme=github-light" alt="Contribution Graph"/>
 </p>
 
 ---
 
 ### 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaid1998&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shaid1998&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shaid1998&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Shaid1998&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>
 

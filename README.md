@@ -49,13 +49,6 @@
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shaid1998&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shaid1998&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
 </p>

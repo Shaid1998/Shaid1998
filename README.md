@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shaid1998&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaid1998&theme=light)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shaid1998&theme=react-dark)
 
 ![Most Uses Language](https://github-readme-stats.vercel.app/api/top-langs?username=Shaid1998&show_icons=true&locale=en&layout=compact)
 

@@ -21,8 +21,25 @@
 
 ### 🌐 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/Shaid1998"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Shaid1998"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/Shaid1998">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <!-- Facebook -->
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
+    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  
+  <!-- WhatsApp -->
+  <a href="https://wa.me/8801928466221">
+    <img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  
+  <!-- Telegram -->
+  <a href="https://t.me/mdshaidurrahman">
+    <img src="https://img.shields.io/badge/-Telegram-%230088CC?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
 </p>
 
 ---

@@ -48,21 +48,6 @@
 
 ---
 
-### 💼 Top Projects
-<p align="center">
-  <a href="https://github.com/Shaid1998/Vibestay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaid1998&repo=vibeStay&theme=default" />
-  </a>
-  <a href="https://github.com/Shaid1998/Travil">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaid1998&repo=Travil&theme=default" />
-  </a>
-  <a href="https://github.com/Shaid1998/Touriety">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaid1998&repo=gym-app-with-react-and-laravel&theme=default" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shaid1998&show_icons=true&theme=light" height="160"/>

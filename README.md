@@ -57,7 +57,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaid1998&repo=Travil&theme=default" />
   </a>
   <a href="https://github.com/Shaid1998/Touriety">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaid1998&repo=nextDesztina&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaid1998&repo=gym-app-with-react-and-laravel&theme=default" />
   </a>
 </p>
 

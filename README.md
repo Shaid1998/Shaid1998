@@ -65,15 +65,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaid1998&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Shaid1998&theme=radical&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaid1998&show_icons=true&theme=light" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Shaid1998&theme=light&hide_border=false" height="160"/>
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaid1998&theme=github-dark" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaid1998&theme=github-light" alt="Contribution Graph"/>
 </p>
 
 ---

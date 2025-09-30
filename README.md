@@ -51,13 +51,13 @@
 ### 💼 Top Projects
 <p align="center">
   <a href="https://github.com/Shaid1998/Vibestay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaid1998&repo=Vibestay&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaid1998&repo=vibeStay&theme=default" />
   </a>
   <a href="https://github.com/Shaid1998/Travil">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaid1998&repo=Travil&theme=default" />
   </a>
   <a href="https://github.com/Shaid1998/Touriety">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaid1998&repo=Touriety&theme=default" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shaid1998&repo=nextDesztina&theme=default" />
   </a>
 </p>
 
@@ -80,7 +80,7 @@
 
 ### 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaid1998&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaid1998&layout=compact&theme=light" alt="Top Languages"/>
 </p>
 
 ---

@@ -48,13 +48,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shaid1998&show_icons=true&theme=light&cache_seconds=60" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=Shaid1998&theme=light&hide_border=false&cache_seconds=60" height="160"/>
-</p>
-
----
 
 ### 📈 Contribution Graph
 <p align="center">
@@ -63,12 +56,6 @@
 
 ---
 
-### 🔥 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shaid1998&layout=compact&theme=light&cache_seconds=60" alt="Top Languages"/>
-</p>
-
----
 
 ### 💖 Support Me
 <p align="center">

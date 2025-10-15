@@ -50,7 +50,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaid1998&show_icons=true&theme=light" height="160"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shaid1998&show_icons=true&theme=light" height="160"/>
   <img src="https://streak-stats.demolab.com?user=Shaid1998&theme=light&hide_border=false" height="160"/>
 </p>
 
@@ -65,14 +65,16 @@
 
 ### 🔥 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaid1998&layout=compact&theme=light" alt="Top Languages"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shaid1998&layout=compact&theme=light" alt="Top Languages"/>
 </p>
 
 ---
 
 ### 💖 Support Me
 <p align="center">
-  <a href="https://github.com/sponsors/Shaid1998"><img src="https://img.shields.io/badge/-Sponsor-%23EA4AAA?style=for-the-badge&logo=github"/></a>
+  <a href="https://github.com/sponsors/Shaid1998">
+    <img src="https://img.shields.io/badge/-Sponsor-%23EA4AAA?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
 ---

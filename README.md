@@ -54,16 +54,6 @@
 
 ---
 
-
-### 💖 Support Me
-<p align="center">
-  <a href="https://github.com/sponsors/Shaid1998">
-    <img src="https://img.shields.io/badge/-Sponsor-%23EA4AAA?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shaid1998&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views"/>
 </p>

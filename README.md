@@ -12,12 +12,12 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Clickbuy**
-- 🌱 I’m learning **Advanced Laravel & System Design**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Laravel, Vue, React, APIs, System Design**
-- 📫 Reach me at **shaidurrahman225@gmail.com**
-- ⚡ Fun Fact: Always exploring new tech 🚀
+🔭 Currently working on ClickBuy — a classified ads platform
+🌱 Learning Advanced Laravel, System Design & AI/ML to build intelligent applications
+👯 Open to collaborating on Open Source & AI-powered projects
+💬 Ask me about Laravel, React, Vue, APIs, System Design, Python, Machine Learning
+📫 Reach me at shaidurrahman225@gmail.com
+⚡ Fun Fact: Always exploring new tech and integrating AI into web apps
 
 ---
 
